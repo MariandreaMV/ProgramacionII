@@ -1,0 +1,11 @@
+.caja {
+  width: 50px;
+  background-color: gray;
+  height: 50px;
+  text-align: center;
+}
+
+fieldset {
+  background-color: gray;
+  text-align: center;
+}
